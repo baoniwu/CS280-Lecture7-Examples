@@ -1,0 +1,1 @@
+D:\CSharp-Projects\CS280-Lecture7-Examples\PokemonSorting\bin\Debug\PokemonSorting.exe.config
